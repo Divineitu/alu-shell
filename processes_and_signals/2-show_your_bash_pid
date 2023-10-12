@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Show your PID
+# shellcheck disable=SC2009
+pidof bash
